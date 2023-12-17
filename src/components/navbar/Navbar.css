@@ -1,0 +1,15 @@
+
+.custom-nav {
+    background: rgba(67, 60, 67, 0.15);
+    border-radius: 16px;
+    box-shadow: 0 0 10px hsl(214, 65%, 44%);
+    backdrop-filter: blur(2.2px);
+    border: 0.5px solid hsl(214, 65%, 44%);
+}
+
+.custom-h2 {
+    font-synthesis-weight: 2;
+    font-size: 5rem;
+    letter-spacing: 2px;
+    color: black;
+}

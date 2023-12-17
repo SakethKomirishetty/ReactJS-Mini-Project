@@ -1,0 +1,15 @@
+
+.custom-search-bar {
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+
+#custom-search-logo {
+    width: 30px;
+    height: 30px;
+}
+
+#custom-product-title {
+    font-size: 1.3rem;
+}
