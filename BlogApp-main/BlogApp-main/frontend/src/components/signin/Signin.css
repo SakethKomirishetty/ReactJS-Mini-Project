@@ -1,0 +1,74 @@
+/* SignIn Component Styles */
+.container1 {
+    background-color: #020202; /* Dark background color */
+    color: #fff; /* Text color */
+    height: 100vh; /* Full height */
+    display: flex;
+
+    justify-content: center;
+    
+  }
+  
+  .card {
+    background-color: #212121; /* Darker card background */
+    color: #fff;
+    width: 80vh;
+    margin-right: 80vh;
+    
+  }
+  
+  .card-title {
+    background-color: #343a40; /* Darker background for card title */
+  }
+  
+  .card-body {
+    padding: 2rem;
+  }
+  
+  .form-label {
+    color: rgb(218, 217, 116);
+  }
+  
+  .form-check-label {
+    color: #fff; /* Radio button label color */
+  }
+  
+  .form-control {
+    background-color: #343a40; /* Input field background */
+    border: none;
+    color: #fff; /* Input text color */
+  }
+  
+  .form-control:focus {
+    background-color: #454d55; /* Darker background on focus */
+    color: #fff; /* Input text color on focus */
+  }
+  
+  .text-light {
+    color: #fff; /* Text color for the Login button */
+  }
+  
+  .text-light:hover {
+    color: #f8f9fa; /* Lighter text color on hover */
+  }
+  
+  /* Error messages */
+  .text-danger {
+    color: #dc3545; /* Error message color */
+  }
+  
+  /* Form validation feedback */
+  .is-invalid {
+    border-color: #dc3545 !important;
+  }
+  
+  .invalid-feedback {
+    color: #dc3545; 
+  }
+  
+
+
+.textColor{
+    color: rgb(218, 217, 116);
+    background-color: #454d55; 
+}

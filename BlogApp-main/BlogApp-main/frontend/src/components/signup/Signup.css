@@ -1,0 +1,19 @@
+h2{
+    color:var(--light-olive)
+}
+
+button[type=submit]{
+    background-color: var(--dark-green);
+    padding: 5px 10px;
+    border: none;
+    border-radius: 3px;
+}
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.textColors{
+    color: rgb(218, 217, 116);
+    background-color: #343a40; 
+}
+
